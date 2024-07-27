@@ -1,0 +1,17 @@
+git config --global user.name "dutrapparduino"
+git config --global user.email "pdutra04@gmail.com"
+git init
+git add index.html
+git remote add origin https://github.com/dutrapparduino/dutraodutra.git
+git branch -M main
+git push -u origin main
+
+git commit -m "first commit"
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/dutrapparduino/oioi.git
+git push -u origin main
